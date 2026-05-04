@@ -14,7 +14,7 @@
 ## How to run tests
 Run the following command in your terminal 
 
-python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 100 --slow-mo-ms 300 --save-every 1 --keep-open
+D:\test_automation>python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 20000 --type-delay-ms 400 --slow-mo-ms 800 --save-every 1 --keep-open
 
 ## Notes
 - Ensure the Excel file is closed before running the script.
